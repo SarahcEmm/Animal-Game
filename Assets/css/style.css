@@ -4,7 +4,9 @@ body {
     font-family: Playwrite GB S, sans-serif;
 
 }
-
+p {
+    text-align: center;
+}
 .animal-gallery {
     display: flex;
     flex-wrap: wrap;
