@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+body {
+    font-family: Playwrite GB S, sans-serif;
+
+}
+
+.animal-gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+.text-box {
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    width: 70px;
+    display: block;
+    margin: auto;
+
+}
+.animal-box {
+    text-align: center;
+    background-color:rgba(99, 199, 53, 0.2);
+    
+    
+    
+    
+}
